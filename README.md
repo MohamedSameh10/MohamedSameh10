@@ -4,7 +4,7 @@
 
 - :school: `Biomedical Engineering Graduate`- Cairo University
 - [C.V.](https://drive.google.com/file/d/1KXgulOc5g4qWnZFuxdptXpiAUV9YxZr8/view?usp=drive_link).
-- [Projects](mohamedsameh.myportfolio.com).
+- [Projects](https://mohamedsameh.mystrikingly.com).
 <br>
 
 ## 📩 Connect with me
