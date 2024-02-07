@@ -3,9 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 - :school: `Biomedical Engineering Graduate`- Cairo University
-- RESUME <src= "https://drive.google.com/file/d/1PTa3XmMY2vtZhPcptPH88fTm4BxsHkp0/view?usp=sharing">
-
-  
+- :thinking:[RESUME](https://drive.google.com/file/d/1PTa3XmMY2vtZhPcptPH88fTm4BxsHkp0/view?usp=sharing).
 <br>
 
 ## 📩 Connect with me
