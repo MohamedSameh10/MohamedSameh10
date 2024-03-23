@@ -1,10 +1,10 @@
-# Hi there! 👋
+<h1 align="center">Hi There! 👋</h1>
 
 I'm Mohamed Sameh, a biomedical engineer with a strong passion for artificial intelligence. I'm dedicated to leveraging AI to make positive impacts in healthcare and everyday life. Excited to collaborate and innovate in this exciting space! 
 
 Feel free to explore my projects and reach out for any collaborations or discussions. Let's make the world a better place with AI!
 
-<h1 align="center">Hi 👋, I'm Mohamed Sameh</h1>
+
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
