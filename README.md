@@ -1,6 +1,6 @@
 <h1 align="center">Hi There! 👋</h1>
 
-I'm Mohamed Sameh, a biomedical engineer with a strong passion for artificial intelligence. I'm dedicated to leveraging AI to make positive impacts in healthcare and everyday life. Excited to collaborate and innovate in this exciting space! 
+I'm Mohamed Sameh, a recent biomedical engineering graduate with a strong passion for artificial intelligence. I'm dedicated to leveraging AI to make positive impacts in healthcare and everyday life. Excited to collaborate and innovate in this exciting space! 
 
 Feel free to explore my projects and reach out for any collaborations or discussions. Let's make the world a better place with AI!
 <br>
