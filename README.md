@@ -15,7 +15,7 @@ I’ve worked extensively on healthcare-related AI projects, but I'm equally pas
 - **Maxilla & Mandible Detection**: Deep learning model on 3D CBCT data, custom CIOU loss, integrated into clinical pipeline.
 - **Kidney Stone Detection App**: YOLO + OpenCV, Streamlit web app for user interaction.
 - **Face Recognition Tool**: DeepFace embeddings + PyQT interface.
-- **LLaMA3 Chat App**: LangChain + OLLAMA integration with a clean chat UI.
+- **LLaMA3 Chat App: Integrated Meta’s LLaMA3 model using OLLAMA and LangChain. Developed a user-friendly chat interface with Streamlit.
 - **House Price Prediction**: ML model with Flask web deployment.
 - **Stroke Prediction**: SVM, KNN, RF on health data with full preprocessing.
 
