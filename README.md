@@ -23,7 +23,7 @@ I’ve worked extensively on healthcare-related AI projects, but I'm equally pas
 
 ## ⚙️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,docker,git,langchain" />
 </p>
 
 ---
