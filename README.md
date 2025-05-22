@@ -1,4 +1,5 @@
-<img src="[https://i.imgur.com/xWObEjC.png](https://github.com/MohamedSameh10/MohamedSameh10/blob/main/ChatGPT%20Image%20May%2022%2C%202025%2C%2003_13_12%20AM.png)" alt="banner"/>
+<img src="https://raw.githubusercontent.com/MohamedSameh10/MohamedSameh10/main/A_2D_digital_graphic_banner_features_Mohamed_Sameh.png" alt="Mohamed Sameh Banner" style="width:100%;"/>
+
 
 # 👋 Hi, I'm Mohamed Sameh
 
