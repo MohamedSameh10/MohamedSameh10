@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xWObEjC.png" alt="banner"/>
+<img src="[https://i.imgur.com/xWObEjC.png](https://github.com/MohamedSameh10/MohamedSameh10/blob/main/ChatGPT%20Image%20May%2022%2C%202025%2C%2003_13_12%20AM.png)" alt="banner"/>
 
 # 👋 Hi, I'm Mohamed Sameh
 
