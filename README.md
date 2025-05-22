@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MohamedSameh10/MohamedSameh10/main/A_2D_digital_graphic_banner_features_Mohamed_Sameh.png" alt="Mohamed Sameh Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/MohamedSameh10/MohamedSameh10/main/mohamed_sameh_banner.png" alt="Mohamed Sameh Banner" width="100%"/>
 
 
 # 👋 Hi, I'm Mohamed Sameh
