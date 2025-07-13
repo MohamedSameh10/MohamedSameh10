@@ -16,7 +16,7 @@ I’ve worked extensively on healthcare-related AI projects, but I'm equally pas
 - **Kidney Stone Detection App**: YOLO + OpenCV, Streamlit web app for user interaction.
 - **Face Recognition Tool**: DeepFace embeddings + PyQT interface.
 - **Chat With Your PDF App**: Built a RAG-based app to query PDF content using LangChain and Groq ‎LLMs. Implemented history-aware question reformulation, FAISS-based retrieval, and real-time chat UI ‎with Streamlit. Used HuggingFace embeddings and sentence chunking for document parsing.‎
-- **LLaMA3 Chat App**: Integrated Meta’s LLaMA3 model using OLLAMA and LangChain. Developed a user-friendly chat interface with Streamlit.
+- **Mathematics Agent**: Developed a math-focused AI assistant using LangChain’s ReAct agent framework and Groq-served Gemma2 LLM. Integrated numeric calculator and Wikipedia search tools, engineering prompts to enforce math-only behavior with polite refusal of unrelated queries.
 - **House Price Prediction**: ML model with Flask web deployment.
 - **Stroke Prediction**: SVM, KNN, RF on health data with full preprocessing.
 
