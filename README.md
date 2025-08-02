@@ -13,6 +13,7 @@ I’ve worked extensively on healthcare-related AI projects, but I'm equally pas
 
 ## 🛠️ Projects
 - **Maxilla & Mandible Detection**: Deep learning model on 3D CBCT data, custom CIOU loss, integrated into clinical pipeline.
+- **Polyp Segmentation with UNet**: Implemented a UNet architecture from scratch in TensorFlow for semantic segmentation of polyps in endoscopic images. Trained and evaluated on the CVC-ClinicDB dataset with pixel-wise ground truth masks.
 - **Kidney Stone Detection App**: YOLO + OpenCV, Streamlit web app for user interaction.
 - **Face Recognition Tool**: DeepFace embeddings + PyQT interface.
 - **Chat With Your PDF App**: Built a RAG-based app to query PDF content using LangChain and Groq ‎LLMs. Implemented history-aware question reformulation, FAISS-based retrieval, and real-time chat UI ‎with Streamlit. Used HuggingFace embeddings and sentence chunking for document parsing.‎
