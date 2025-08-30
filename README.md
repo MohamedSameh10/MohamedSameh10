@@ -11,18 +11,6 @@ I’ve worked extensively on healthcare-related AI projects, but I'm equally pas
 
 ---
 
-## 🛠️ Projects
-- **Maxilla & Mandible Detection**: Deep learning model on 3D CBCT data, custom CIOU loss, integrated into clinical pipeline.
-- **Polyp Segmentation with UNet**: Implemented a UNet architecture from scratch in TensorFlow for semantic segmentation of polyps in endoscopic images. Trained and evaluated on the CVC-ClinicDB dataset with pixel-wise ground truth masks.
-- **Kidney Stone Detection App**: YOLO + OpenCV, Streamlit web app for user interaction.
-- **Face Recognition Tool**: DeepFace embeddings + PyQT interface.
-- **Chat With Your PDF App**: Built a RAG-based app to query PDF content using LangChain and Groq ‎LLMs. Implemented history-aware question reformulation, FAISS-based retrieval, and real-time chat UI ‎with Streamlit. Used HuggingFace embeddings and sentence chunking for document parsing.‎
-- **Mathematics Agent**: Developed a math-focused AI assistant using LangChain’s ReAct agent framework and Groq-served Gemma2 LLM. Integrated numeric calculator and Wikipedia search tools, engineering prompts to enforce math-only behavior with polite refusal of unrelated queries.
-- **House Price Prediction**: ML model with Flask web deployment.
-- **Stroke Prediction**: SVM, KNN, RF on health data with full preprocessing.
-
----
-
 ## ⚙️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,docker,git,langchain" />
