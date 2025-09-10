@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MohamedSameh10/MohamedSameh10/main/mohamed_sameh_banner.png" alt="Mohamed Sameh Banner" width="100%"/>
-
 <div align="center">
 
 # 👋 Hi, I'm Mohamed Sameh
