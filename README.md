@@ -2,9 +2,6 @@
 
 # 👋 Hi, I'm Mohamed Sameh
 
-AI Engineer with experience in computer vision, NLP, and end-to-end deep learning solutions.  
-I’ve worked extensively on healthcare-related AI projects, but I'm equally passionate about LLMs, generative AI, and real-world automation.
-
 </div>
 
 ---
